@@ -1,4 +1,4 @@
-# Walmart-Sales-Analysis 
+# Walmart-Sales-Analysis using Tableau
 
 In this project, I conducted an in-depth analysis of Walmart's sales data using **Tableau**, focusing on key performance indicators such as **average sales measures, state-wise profit distribution, age vs. profit trends, and regional profitability**.  
 
